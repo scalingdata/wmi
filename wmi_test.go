@@ -13,8 +13,8 @@ import (
 	"testing"
 	"time"
 
-	ole "github.com/go-ole/go-ole"
-	"github.com/go-ole/go-ole/oleutil"
+	ole "github.com/scalingdata/go-ole"
+	"github.com/scalingdata/go-ole/oleutil"
 )
 
 func TestQuery(t *testing.T) {
